@@ -1,3 +1,5 @@
 # Bacteria_Killer_FPS
 
-Unity learn
+This project is initialized from resources in https://learn.unity.com/
+
+The project is just for self-learning purposes.
